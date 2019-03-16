@@ -1,0 +1,17 @@
+C:\Work\Akka\HrApi\HrApi\bin\Debug\netcoreapp2.1\HrApi.deps.json
+C:\Work\Akka\HrApi\HrApi\bin\Debug\netcoreapp2.1\HrApi.runtimeconfig.json
+C:\Work\Akka\HrApi\HrApi\bin\Debug\netcoreapp2.1\HrApi.runtimeconfig.dev.json
+C:\Work\Akka\HrApi\HrApi\bin\Debug\netcoreapp2.1\HrApi.dll
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.csprojAssemblyReference.cache
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.csproj.CoreCompileInputs.cache
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.RazorAssemblyInfo.cache
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.RazorAssemblyInfo.cs
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.AssemblyInfoInputs.cache
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.AssemblyInfo.cs
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.RazorTargetAssemblyInfo.cache
+C:\Work\Akka\HrApi\HrApi\bin\Debug\netcoreapp2.1\HrApi.pdb
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.dll
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.pdb
+C:\Work\Akka\HrApi\HrApi\bin\Debug\netcoreapp2.1\App.dll
+C:\Work\Akka\HrApi\HrApi\bin\Debug\netcoreapp2.1\App.pdb
+C:\Work\Akka\HrApi\HrApi\obj\Debug\netcoreapp2.1\HrApi.csproj.CopyComplete

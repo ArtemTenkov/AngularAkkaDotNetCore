@@ -1,0 +1,9 @@
+C:\Work\Akka\HrApi\App\bin\Debug\netcoreapp2.1\App.deps.json
+C:\Work\Akka\HrApi\App\bin\Debug\netcoreapp2.1\App.dll
+C:\Work\Akka\HrApi\App\obj\Debug\netcoreapp2.1\App.csprojAssemblyReference.cache
+C:\Work\Akka\HrApi\App\obj\Debug\netcoreapp2.1\App.csproj.CoreCompileInputs.cache
+C:\Work\Akka\HrApi\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+C:\Work\Akka\HrApi\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.cs
+C:\Work\Akka\HrApi\App\bin\Debug\netcoreapp2.1\App.pdb
+C:\Work\Akka\HrApi\App\obj\Debug\netcoreapp2.1\App.dll
+C:\Work\Akka\HrApi\App\obj\Debug\netcoreapp2.1\App.pdb
